@@ -1,15 +1,24 @@
 {
-  "name": "node-v9-test",
+  "name": "koa-dynamic-import-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "Example server on `koa` with dynamic import.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Mikhail Semin",
+  "license": "MIT",
   "dependencies": {
     "koa": "^2.5.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bifot/koa-dynamic-import-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bifot/koa-dynamic-import-example/issues"
+  },
+  "homepage": "https://github.com/bifot/koa-dynamic-import-example#readme"
 }
