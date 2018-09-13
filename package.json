@@ -2,7 +2,7 @@
   "name": "koa-dynamic-import-example",
   "version": "1.0.0",
   "description": "Example server on `koa` with dynamic import.",
-  "main": "index.js",
+  "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
